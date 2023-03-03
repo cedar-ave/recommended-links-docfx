@@ -1,0 +1,37 @@
+#recommended {
+    margin-top: 25px !important;
+    color: #333;
+    background-color: white;
+    box-shadow: 0 14px 28px rgb(0 0 0 / 10%), 0 10px 10px rgb(0 0 0 / 10%);
+    padding: 15px;
+    border-radius: 4px;
+    border-left: #00abf9 solid 8px;
+    border-top: #d7dde4 solid 1px;
+    border-right: #d7dde4 solid 1px;
+    border-bottom: #d7dde4 solid 1px;
+}
+
+.recommended-heading {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #333;
+    margin-top: 25px;
+}
+
+#content-type {
+    background-color: #ADE5FF;
+    color: #333;
+    border-radius: 3px;
+    font-size: 9px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: .15px;
+    margin-left: 0px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-right: 8px;
+    padding: 3px 7px 3px 10px;
+    position: relative;
+    top: -1px;
+}

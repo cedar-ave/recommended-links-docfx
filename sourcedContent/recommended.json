@@ -1,0 +1,19 @@
+{
+  "articles/find-the-docs.html": {
+    "articles": [
+      "articles/build-pdfs.html",
+      "articles/build-the-docs.html",
+      "articles/check-the-docs.html"
+    ],
+    "hcCommunity": [
+      {
+        "title": "Release notes",
+        "path": "<path-after-base-url>"
+      },
+      {
+        "title": "What's new",
+        "path": "<path-after-base-url>"
+      }
+    ]
+  }
+}
