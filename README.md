@@ -4,10 +4,6 @@ This feature lists related articles and other links specified in a JSON file. Fo
 
 ![](images/recommended.png)
 
-## (If applicable) Add your customer community's base URL
-
-Change the `hccBaseUrl` variable in `styles/main.js` to your customer community's base URL.
-
 ## Add the recommended section in the master page template
 
 Add `<div id="recommended-articles"></div>` in `template/layout/_master.tmpl` where you want the section to show on every page. For example:
@@ -19,4 +15,10 @@ Add `<div id="recommended-articles"></div>` in `template/layout/_master.tmpl` wh
 <div id="recommended-articles"></div>
 ```
 
-Assign recommendations in `sourcedContent/recommended.json`.
+## (If applicable) Add your customer community's base URL
+
+Change the `hccBaseUrl` variable in `styles/main.js` to your customer community's base URL.
+
+## Assign recommended links
+
+Edit `sourcedContent/recommended.json` to identify recommended links to show on articles.
